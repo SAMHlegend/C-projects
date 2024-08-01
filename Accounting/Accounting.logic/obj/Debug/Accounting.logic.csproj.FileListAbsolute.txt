@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\Accounting.logic.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\Accounting.logic.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.logic\obj\Debug\Accounting.logic.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.logic\obj\Debug\Accounting.logic.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.logic\obj\Debug\Accounting.logic.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\Accounting.data.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\Accounting.viewmodels.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\Accounting.data.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\Accounting.viewmodels.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\Accounting.logic\bin\Debug\EntityFramework.xml

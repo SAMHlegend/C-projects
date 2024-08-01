@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.tools\bin\Debug\Accounting.tools.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.tools\bin\Debug\Accounting.tools.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.tools\obj\Debug\Accounting.tools.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.tools\obj\Debug\Accounting.tools.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.tools\obj\Debug\Accounting.tools.pdb

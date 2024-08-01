@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\Accounting.data.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\Accounting.data.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\Accounting.viewmodels.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting\ConsoleApp\bin\Debug\Accounting.viewmodels.pdb

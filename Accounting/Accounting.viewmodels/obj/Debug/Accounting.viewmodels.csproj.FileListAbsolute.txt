@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.viewmodels\bin\Debug\Accounting.viewmodels.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.viewmodels\bin\Debug\Accounting.viewmodels.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.viewmodels\obj\Debug\Accounting.viewmodels.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.viewmodels\obj\Debug\Accounting.viewmodels.dll
+c:\users\hp\documents\visual studio 2015\Projects\Accounting\Accounting.viewmodels\obj\Debug\Accounting.viewmodels.pdb
